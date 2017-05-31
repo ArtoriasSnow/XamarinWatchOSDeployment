@@ -1,14 +1,16 @@
 Necesitaremos un iPhone y un iWatch correctamente enlazados para poder desplegar en ellos nuestra app.
 
 Antes de nada, hay que configurar los info.plist de los proyectos. 
-A continuación se muestra un ejemplo de nombres para los proyectos: 
+A continuación se muestra un ejemplo de nombres: 
 
-	                  Bundle Identifier      
-                    
-           App.IOS	com.Company.ExampleWatch
-         App.Watch	com.Company.ExampleWatch.watchkit
-App.WatchExtension	com.Company.ExampleWatchl.watchkit.watchkitextension
 
+| Project  | Bundle Identifier |
+| ------------- | ------------- |
+| App.IOS  | com.Company.ExampleWatch |
+| App.Watch  | com.Company.ExampleWatch.watchkit |
+| App.WatchExtension | com.Company.ExampleWatchl.watchkit.watchkitextension |
+
+	           
 En el caso de los App.Watch y App.WatchExtension hay que añadir también el Watchkit Companion App Bundle Identifier 
 (com.Company.ExampleWatch) y el WatchKit App Bundle Identifier (com.Company.ExampleWatch.watchkit), respectivamente.
 
