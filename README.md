@@ -44,6 +44,6 @@ Hay que editar el fichero .csproj del proyecto en conflicto, editando el paráme
 FAQ
 -------------------------------------------------
 
-"La app se instala en mi iPhone pero cuando está a punto de hacerlo en iWatch se cancela automáticamente y desaparece el icono"
+*"La app se instala en mi iPhone pero cuando está a punto de hacerlo en iWatch se cancela automáticamente y desaparece el icono"*
 
 Casi con total seguridad se trata de un problema de los Provisioning Profiles y/o Entitlements. Debemos asegurarnos de que están correctamente configurados en la web de apple.developer y añadidos en nuestro mac.
