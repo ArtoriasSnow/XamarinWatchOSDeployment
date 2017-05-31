@@ -1,6 +1,6 @@
 Necesitaremos un iPhone y un iWatch correctamente enlazados para poder desplegar en ellos nuestra app.
 
-Antes de nada, hay que configurar los info.plist de los proyectos. 
+Antes de nada, hay que configurar los **info.plist** de los proyectos. 
 A continuación se muestra un ejemplo de nombres: 
 
 
@@ -11,12 +11,12 @@ A continuación se muestra un ejemplo de nombres:
 | App.WatchExtension | com.Company.ExampleWatchl.watchkit.watchkitextension |
 
 	           
-En el caso de los App.Watch y App.WatchExtension hay que añadir también el Watchkit Companion App Bundle Identifier 
-(com.Company.ExampleWatch) y el WatchKit App Bundle Identifier (com.Company.ExampleWatch.watchkit), respectivamente.
+En el caso de los App.Watch y App.WatchExtension hay que añadir también el **Watchkit Companion App Bundle Identifier** 
+(com.Company.ExampleWatch) y el **WatchKit App Bundle Identifier** (com.Company.ExampleWatch.watchkit), respectivamente.
 
 No es necesario modificar el Entitlements.plist.
 
-En los Project Options seleccionamos el Signing Identity y el Provisioning Profile (puede ser uno único para cada
+En los Project Options seleccionamos el **Signing Identity** y el **Provisioning Profile** (puede ser uno único para cada
 proyecto, iOS-Watch-Watchextension, o incluso podemos usar un Wildcard). 
 En la opción de Custom Entitlements no hay que añadir ningún fichero, a no ser que nuestra app los necesite.
 
@@ -38,7 +38,7 @@ Solución de problemas conocidos durante el proceso
 --------------------------------------------------
 
 *COULD NOT RESOLVE HOST IPs FOR WIFI DEBUGGER SETTINGS*
-Hay que editar el fichero .csproj del proyecto en conflicto, editando el parámetro “DebugOverWifi” a false.
+Hay que editar el fichero .csproj del proyecto en conflicto, editando el parámetro “DebugOverWifi” a **false**.
 
 
 FAQ
