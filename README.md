@@ -1,3 +1,5 @@
+![alt text](https://www.blueboltsolutions.com/Portals/0/ContentImages/Logos/Xamarin%20Logo.png)
+
 Necesitaremos un iPhone y un iWatch correctamente enlazados para poder desplegar en ellos nuestra app.
 
 Antes de nada, hay que configurar los **info.plist** de los proyectos. 
