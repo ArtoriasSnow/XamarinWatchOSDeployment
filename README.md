@@ -4,6 +4,7 @@ Necesitaremos un iPhone y un iWatch correctamente enlazados para poder desplegar
 
 Antes de nada, hay que configurar los **info.plist** de los proyectos. 
 ![alt text](http://imgur.com/QmUHUPe.png)
+
 A continuación se muestra un ejemplo de nombres: 
 
 
@@ -16,6 +17,10 @@ A continuación se muestra un ejemplo de nombres:
 	           
 En el caso de los App.Watch y App.WatchExtension hay que añadir también el **Watchkit Companion App Bundle Identifier** 
 (com.Company.ExampleWatch) y el **WatchKit App Bundle Identifier** (com.Company.ExampleWatch.watchkit), respectivamente.
+
+![alt text](http://imgur.com/wLTUfZt.png)
+![alt text](http://imgur.com/fXi0DaG.png)
+![alt text](http://imgur.com/9APR4CF.png)
 
 No es necesario modificar el Entitlements.plist.
 
