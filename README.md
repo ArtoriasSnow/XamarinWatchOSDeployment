@@ -26,6 +26,8 @@ No es necesario modificar el Entitlements.plist.
 
 En los Project Options seleccionamos el **Signing Identity** y el **Provisioning Profile** (puede ser uno único para cada
 proyecto, iOS-Watch-Watchextension, o incluso podemos usar un Wildcard). 
+![alt text](http://imgur.com/IwhDCoQ.png)
+![alt text](http://imgur.com/i3VQylk.png)
 En la opción de Custom Entitlements no hay que añadir ningún fichero, a no ser que nuestra app los necesite.
 
 A fecha de hoy no funciona desplegar directamente en el dispositivo desde Xamarin Studio 
