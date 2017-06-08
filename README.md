@@ -25,7 +25,7 @@ En el caso de los App.Watch y App.WatchExtension hay que añadir también el **W
 No es necesario modificar el Entitlements.plist.
 
 En los Project Options seleccionamos el **Signing Identity** y el **Provisioning Profile** (puede ser uno único para cada
-proyecto, iOS-Watch-Watchextension, o incluso podemos usar un **Wildcard**). 
+proyecto, iOS-Watch-Watchextension, o incluso podemos usar un **Wildcard** común para los tres proyectos). 
 
 ![alt text](http://imgur.com/IwhDCoQ.png)
 ![alt text](http://imgur.com/i3VQylk.png)
