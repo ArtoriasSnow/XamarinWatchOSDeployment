@@ -21,6 +21,7 @@ En el caso de los App.Watch y App.WatchExtension hay que añadir también el **W
 ![alt text](http://imgur.com/wLTUfZt.png)
 ![alt text](http://imgur.com/fXi0DaG.png)
 ![alt text](http://imgur.com/9APR4CF.png)
+![alt text](http://imgur.com/hgcTQj2.png)
 
 No es necesario modificar el Entitlements.plist.
 
