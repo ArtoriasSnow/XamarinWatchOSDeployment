@@ -21,7 +21,6 @@ En el caso de los App.Watch y App.WatchExtension hay que añadir también el **W
 ![alt text](http://imgur.com/wLTUfZt.png)
 ![alt text](http://imgur.com/fXi0DaG.png)
 ![alt text](http://imgur.com/9APR4CF.png)
-![alt text](http://imgur.com/hgcTQj2.png)
 
 No es necesario modificar el Entitlements.plist.
 
@@ -30,6 +29,7 @@ proyecto, iOS-Watch-Watchextension, o incluso podemos usar un Wildcard).
 
 ![alt text](http://imgur.com/IwhDCoQ.png)
 ![alt text](http://imgur.com/i3VQylk.png)
+![alt text](http://imgur.com/hgcTQj2.png)
 
 En la opción de Custom Entitlements no hay que añadir ningún fichero, a no ser que nuestra app los necesite.
 
