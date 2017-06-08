@@ -3,6 +3,7 @@
 Necesitaremos un iPhone y un iWatch correctamente enlazados para poder desplegar en ellos nuestra app.
 
 Antes de nada, hay que configurar los **info.plist** de los proyectos. 
+![alt text](http://imgur.com/QmUHUPe.png)
 A continuación se muestra un ejemplo de nombres: 
 
 
